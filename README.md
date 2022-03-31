@@ -8,3 +8,7 @@ Cities to pull weather information from in Eastern,Northeastern, and Southeaster
 
 Ashland Barbourville Beattyville Booneville Campton Cumberland Grayson Harlan Hazard Hindman Hyden Inez Irvine Jackson Lexington London Louisa Manchester McKee Morehead Mt Sterling Mt Vernon Owingsville Paintsville Pikeville Prestonsburg Richmond Salyersville West Liberty Whitesburg Williamsburg Winchester
 
+# Project Features
+My project has all three features that is required in our projects one of the main features is the JSON file which is pulling the weather data through the API key
+Second feature is the Data display that shows all the weather information of the city that can be selected from my list or any other choice
+Third Feature is the use of the API key
